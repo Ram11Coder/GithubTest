@@ -1,0 +1,28 @@
+GIt commands:
+-------------
+1.First step clone the remote repository to local
+git clone "repository url"
+
+2.while cloning .git folder will be created
+For creating a new project use -> git init commands
+
+3.provide the username and email 
+git config --global user.email "Registerd mail address"
+git config --global user.name "User name"
+
+4.Add or modify the files or folder 
+git status -> shows the modified files in red color
+
+5.use git add when you have new files that are not in5. source control
+git add (Modified files)
+
+6.After the add git status -> show green color
+
+7.Now commit the files
+git commit -m "add the message"
+
+8.Pushing files from local repository to remote repository
+git push
+
+9.If you enable 2 factor authentication, authorise it in browser
+
